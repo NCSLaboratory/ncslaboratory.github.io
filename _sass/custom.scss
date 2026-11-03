@@ -105,42 +105,107 @@
   font-weight: 700;
 }
 
-.research-video-grid {
+.research-feature {
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) minmax(250px, .8fr);
+  gap: 1.5rem;
+  align-items: center;
+  margin: 1.25rem 0 2.5rem;
+}
+
+.research-feature--core {
+  padding: 1rem;
+  border: 1px solid $border-color;
+  border-radius: .75rem;
+  background: mix(#fff, $background-color, 70%);
+}
+
+.research-kicker {
+  margin: 0 0 .4rem;
+  color: $primary-color;
+  font-size: .75rem;
+  font-weight: 700;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+.research-feature h3,
+.research-media-card h3 {
+  margin: .7rem 0 .35rem;
+  font-size: 1.05rem;
+}
+
+.research-feature p:last-child,
+.research-media-card p {
+  margin: 0;
+  color: $muted-text-color;
+  font-size: .88rem;
+}
+
+.research-media-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 1rem;
   margin: .75rem 0 2rem;
 }
 
-.research-video-card {
-  padding: .9rem;
+.research-media-grid--three {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.research-media-grid--pair {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.research-media-card {
+  min-width: 0;
+  padding: .85rem;
   border: 1px solid $border-color;
   border-radius: .75rem;
   background: mix(#fff, $background-color, 70%);
 }
 
-.research-video-card video {
-  display: block;
-  width: 100%;
+.research-media-frame {
+  overflow: hidden;
   aspect-ratio: 16 / 9;
   border-radius: .55rem;
-  background: #000;
-  object-fit: contain;
+  background: #07111f;
 }
 
-.research-video-card h4 {
-  margin: .7rem 0 .3rem;
-  font-size: 1rem;
+.research-media-frame video,
+.research-media-frame img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  object-fit: cover;
+  object-position: center;
 }
 
-.research-video-card p {
-  margin: 0;
-  color: $muted-text-color;
-  font-size: .88rem;
+.research-autoplay-video {
+  pointer-events: none;
+  transform: scale(1.04);
+}
+
+.research-media-frame img {
+  transform: scale(1.06);
 }
 
 @media (max-width: 860px) {
-  .research-video-grid {
+  .research-feature,
+  .research-media-grid--three {
+    grid-template-columns: 1fr;
+  }
+
+  .research-media-grid--pair {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 600px) {
+  .research-feature,
+  .research-media-grid,
+  .research-media-grid--pair {
     grid-template-columns: 1fr;
   }
 }
