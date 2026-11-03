@@ -8,7 +8,7 @@ subtitle: "UNIST Department of Mathematical Sciences"
 name: "Prof. Pilwon Kim"
 description: "The Nonlinear Complex System Laboratory at UNIST studies complex phenomena through mathematics, computation, and AI."
 url: "https://unist-ncs.github.io"
-baseurl: "/ncslaboratory.github.io"
+baseurl: ""
 repository: "unist-ncs/ncslaboratory.github.io"
 breadcrumbs: false
 search: false
