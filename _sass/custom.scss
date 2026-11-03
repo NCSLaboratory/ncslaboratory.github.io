@@ -24,7 +24,7 @@
   margin-bottom: 1rem;
   border-radius: .6rem;
   object-fit: cover;
-  object-position: center top;
+  object-position: center;
   background: #fff;
 }
 
@@ -103,4 +103,44 @@
   border-radius: 999px;
   font-size: .78rem;
   font-weight: 700;
+}
+
+.research-video-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: .75rem 0 2rem;
+}
+
+.research-video-card {
+  padding: .9rem;
+  border: 1px solid $border-color;
+  border-radius: .75rem;
+  background: mix(#fff, $background-color, 70%);
+}
+
+.research-video-card video {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border-radius: .55rem;
+  background: #000;
+  object-fit: contain;
+}
+
+.research-video-card h4 {
+  margin: .7rem 0 .3rem;
+  font-size: 1rem;
+}
+
+.research-video-card p {
+  margin: 0;
+  color: $muted-text-color;
+  font-size: .88rem;
+}
+
+@media (max-width: 860px) {
+  .research-video-grid {
+    grid-template-columns: 1fr;
+  }
 }
