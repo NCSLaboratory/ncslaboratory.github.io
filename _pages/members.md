@@ -6,7 +6,7 @@ classes: wide
 
 ## Principal investigator
 
-**Prof. Pilwon Kim**  
+**Prof. Pilwon Kim**
 Department of Mathematical Sciences, UNIST
 
 ## Research fellows
