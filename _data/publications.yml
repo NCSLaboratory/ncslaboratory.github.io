@@ -1,0 +1,215 @@
+- title: "Unsupervised reservoir computing for multivariate denoising of severely contaminated signals"
+  authors: "Choi, J.| Kim, P."
+  year: 2025
+  journal: "Knowledge-Based Systems"
+  citations: 2
+  doi: "10.1016/j.knosys.2025.114574"
+  doi_url: "https://doi.org/10.1016/j.knosys.2025.114574"
+  scopus_url: "https://www.scopus.com/pages/publications/105018170596?source=scival"
+
+- title: "Signal-noise separation using unsupervised reservoir computing"
+  authors: "Choi, J.| Kim, P."
+  year: 2025
+  journal: "Chaos"
+  citations: 3
+  doi: "10.1063/5.0278540"
+  doi_url: "https://doi.org/10.1063/5.0278540"
+  scopus_url: "https://www.scopus.com/pages/publications/105014170220?source=scival"
+
+- title: "Selective inhibition in CA3: A mechanism for stable pattern completion through heterosynaptic plasticity"
+  authors: "Kim, G.| Kim, P."
+  year: 2025
+  journal: "PLOS Computational Biology"
+  citations: 1
+  doi: "10.1371/journal.pcbi.1013267"
+  doi_url: "https://doi.org/10.1371/journal.pcbi.1013267"
+  scopus_url: "https://www.scopus.com/pages/publications/105010014967?source=scival"
+
+- title: "Homotopy reservoir computing: Harnessing chaos for computation"
+  authors: "Choi, J.| Kim, P."
+  year: 2025
+  journal: "Chaos"
+  citations: 1
+  doi: "10.1063/5.0273406"
+  doi_url: "https://doi.org/10.1063/5.0273406"
+  scopus_url: "https://www.scopus.com/pages/publications/105015327637?source=scival"
+
+- title: "Estimation of undetected asymptomatic infections of COVID-19: a mathematical modeling approach"
+  authors: "Choi, Y.| Kim, P.| Lee, C.H."
+  year: 2025
+  journal: "Scientific Reports"
+  citations: 2
+  doi: "10.1038/s41598-025-28374-y"
+  doi_url: "https://doi.org/10.1038/s41598-025-28374-y"
+  scopus_url: "https://www.scopus.com/pages/publications/105026252463?source=scival"
+
+- title: "STDP-based associative memory formation and retrieval"
+  authors: "Yoon, H.-G.| Kim, P."
+  year: 2023
+  journal: "Journal of Mathematical Biology"
+  citations: 5
+  doi: "10.1007/s00285-023-01883-y"
+  doi_url: "https://doi.org/10.1007/s00285-023-01883-y"
+  scopus_url: "https://www.scopus.com/pages/publications/85148956172?source=scival"
+
+- title: "Group formation in a dominance-seeking contest"
+  authors: "Lee, D.| Kim, P."
+  year: 2022
+  journal: "Social Choice and Welfare"
+  citations: 3
+  doi: "10.1007/s00355-021-01346-7"
+  doi_url: "https://doi.org/10.1007/s00355-021-01346-7"
+  scopus_url: "https://www.scopus.com/pages/publications/85108623819?source=scival"
+
+- title: "Effects of adaptive acceleration response of birds on collective behaviors"
+  authors: "Jung, N.| Weon, B.M.| Kim, P."
+  year: 2022
+  journal: "Journal of Physics: Complexity"
+  citations: 5
+  doi: "10.1088/2632-072X/ac5b14"
+  doi_url: "https://doi.org/10.1088/2632-072X/ac5b14"
+  scopus_url: "https://www.scopus.com/pages/publications/85128370326?source=scival"
+
+- title: "Early warning for critical transitions using machine-based predictability"
+  authors: "Choi, J.| Kim, P."
+  year: 2022
+  journal: "AIMS Mathematics"
+  citations: 5
+  doi: "10.3934/math.20221112"
+  doi_url: "https://doi.org/10.3934/math.20221112"
+  scopus_url: "https://www.scopus.com/pages/publications/85137990528?source=scival"
+
+- title: "An STDP-based encoding method for associative and composite data"
+  authors: "Yoon, H.-G.| Kim, P."
+  year: 2022
+  journal: "Scientific Reports"
+  citations: 7
+  doi: "10.1038/s41598-022-08469-6"
+  doi_url: "https://doi.org/10.1038/s41598-022-08469-6"
+  scopus_url: "https://www.scopus.com/pages/publications/85126631478?source=scival"
+
+- title: "PDE-guided reservoir computing for image denoising with small data"
+  authors: "Jeon, J.| Kim, P.| Jang, B.| Kim, Y."
+  year: 2021
+  journal: "Chaos (Woodbury, N.Y.)"
+  citations: 7
+  doi: "10.1063/5.0049911"
+  doi_url: "https://doi.org/10.1063/5.0049911"
+  scopus_url: "https://www.scopus.com/pages/publications/85113647506?source=scival"
+
+- title: "Mathematical analysis of crime dynamics in and out of prisons"
+  authors: "Park, J.| Kim, P."
+  year: 2021
+  journal: "Mathematical Methods in the Applied Sciences"
+  citations: 9
+  doi: "10.1002/mma.6771"
+  doi_url: "https://doi.org/10.1002/mma.6771"
+  scopus_url: "https://www.scopus.com/pages/publications/85088799261?source=scival"
+
+- title: "Reservoir computing based on quenched chaos"
+  authors: "Choi, J.| Kim, P."
+  year: 2020
+  journal: "Chaos, Solitons and Fractals"
+  citations: 20
+  doi: "10.1016/j.chaos.2020.110131"
+  doi_url: "https://doi.org/10.1016/j.chaos.2020.110131"
+  scopus_url: "https://www.scopus.com/pages/publications/85088217827?source=scival"
+
+- title: "Repeated minimum-effort coordination games"
+  authors: "Kim, P.| Lee, D."
+  year: 2019
+  journal: "Journal of Evolutionary Economics"
+  citations: 0
+  doi: "10.1007/s00191-018-0587-z"
+  doi_url: "https://doi.org/10.1007/s00191-018-0587-z"
+  scopus_url: "https://www.scopus.com/pages/publications/85052654025?source=scival"
+
+- title: "Critical neuromorphic computing based on explosive synchronization"
+  authors: "Choi, J.| Kim, P."
+  year: 2019
+  journal: "Chaos"
+  citations: 10
+  doi: "10.1063/1.5086902"
+  doi_url: "https://doi.org/10.1063/1.5086902"
+  scopus_url: "https://www.scopus.com/pages/publications/85064217542?source=scival"
+
+- title: "A population-based optimization method using Newton fractal"
+  authors: "Jeong, S.| Kim, P."
+  year: 2019
+  journal: "Complexity"
+  citations: 5
+  doi: "10.1155/2019/5379301"
+  doi_url: "https://doi.org/10.1155/2019/5379301"
+  scopus_url: "https://www.scopus.com/pages/publications/85065745328?source=scival"
+
+- title: "Recurrent synchronization of coupled oscillators with spontaneous phase reformation"
+  authors: "Jeon, J.-H.| Kim, P."
+  year: 2018
+  journal: "Chaos"
+  citations: 2
+  doi: "10.1063/1.5029285"
+  doi_url: "https://doi.org/10.1063/1.5029285"
+  scopus_url: "https://www.scopus.com/pages/publications/85055347878?source=scival"
+
+- title: "Isolation and exploitation of minority: Game theoretical analysis"
+  authors: "Lee, D.| Kim, P."
+  year: 2018
+  journal: "PLoS ONE"
+  citations: 0
+  doi: "10.1371/journal.pone.0205241"
+  doi_url: "https://doi.org/10.1371/journal.pone.0205241"
+  scopus_url: "https://www.scopus.com/pages/publications/85054459717?source=scival"
+
+- title: "Group formation under limited resources: narrow basin of equality"
+  authors: "Lee, D.| Kim, P."
+  year: 2018
+  journal: "Palgrave Communications"
+  citations: 1
+  doi: "10.1057/s41599-018-0146-0"
+  doi_url: "https://doi.org/10.1057/s41599-018-0146-0"
+  scopus_url: "https://www.scopus.com/pages/publications/85053531890?source=scival"
+
+- title: "Epidemic Spreading in Complex Networks with Resilient Nodes: Applications to FMD"
+  authors: "Kim, P.| Lee, C.H."
+  year: 2018
+  journal: "Complexity"
+  citations: 10
+  doi: "10.1155/2018/5024327"
+  doi_url: "https://doi.org/10.1155/2018/5024327"
+  scopus_url: "https://www.scopus.com/pages/publications/85045033750?source=scival"
+
+- title: "Correction to: Group formation under limited resources: narrow basin of equality (Palgrave Communications, (2018), 4, 1, (91), 10.1057/s41599-018-0146-0)"
+  authors: "Lee, D.| Kim, P."
+  year: 2018
+  journal: "Palgrave Communications"
+  citations: 0
+  doi: "10.1057/s41599-018-0156-y"
+  doi_url: "https://doi.org/10.1057/s41599-018-0156-y"
+  scopus_url: "https://www.scopus.com/pages/publications/85053490020?source=scival"
+
+- title: "Surfactant effects on droplet dynamics and deposition patterns: A lattice gas model"
+  authors: "Jung, N.| Seo, H.W.| Leo, P.H.| Kim, J.| Kim, P.| Yoo, C.S."
+  year: 2017
+  journal: "Soft Matter"
+  citations: 23
+  doi: "10.1039/c7sm01224a"
+  doi_url: "https://doi.org/10.1039/c7sm01224a"
+  scopus_url: "https://www.scopus.com/pages/publications/85030222358?source=scival"
+
+- title: "Maximum power game as a physical and social extension of classical games"
+  authors: "Kim, P."
+  year: 2017
+  journal: "Scientific Reports"
+  citations: 0
+  doi: "10.1038/srep43649"
+  doi_url: "https://doi.org/10.1038/srep43649"
+  scopus_url: "https://www.scopus.com/pages/publications/85014912707?source=scival"
+
+- title: "Evolution of cooperation through power law distributed conflicts"
+  authors: "Kim, P."
+  year: 2017
+  journal: "Complexity"
+  citations: 0
+  doi: "10.1155/2017/9271651"
+  doi_url: "https://doi.org/10.1155/2017/9271651"
+  scopus_url: "https://www.scopus.com/pages/publications/85029437645?source=scival"
