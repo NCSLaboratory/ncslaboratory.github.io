@@ -26,3 +26,24 @@ We develop computational methods for simulating, analyzing, and predicting compl
 
 - **Chaos theory:** order within unpredictability, sensitive dependence on initial conditions, and limits of long-term prediction
 - **Game theory:** the mathematics of strategic interaction, equilibrium, competition, and cooperation
+
+## Research media gallery
+
+The following videos are grouped by research theme to provide a quick visual overview of lab simulations and computational results.
+
+{% assign video_groups = site.data.research_videos | group_by: "category" %}
+{% for group in video_groups %}
+### {{ group.name }}
+
+<div class="research-video-grid">
+  {% for video in group.items %}
+    <article class="research-video-card">
+      <video controls preload="metadata" playsinline {% if video.poster %}poster="{{ video.poster | relative_url }}"{% endif %}>
+        <source src="{{ video.file | relative_url }}" type="video/mp4" />
+      </video>
+      <h4>{{ video.title }}</h4>
+      <p>{{ video.description }}</p>
+    </article>
+  {% endfor %}
+</div>
+{% endfor %}
