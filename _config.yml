@@ -1,0 +1,51 @@
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "air"
+
+locale: "en-US"
+title: "NCSLaboratory"
+title_separator: "|"
+subtitle: "Safe AI Research"
+name: "NCSLaboratory"
+description: "Researching safe, trustworthy, and dependable AI systems."
+url: "https://ncslaboratory.github.io"
+baseurl: ""
+repository: "NCSLaboratory/ncslaboratory.github.io"
+breadcrumbs: false
+search: false
+
+author:
+  name: "NCSLaboratory"
+  bio: "Researching safe, trustworthy, and dependable AI systems."
+  location: "NCSLaboratory"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:hello@ncslaboratory.org"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/NCSLaboratory"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/NCSLaboratory"
+
+include:
+  - _pages
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
