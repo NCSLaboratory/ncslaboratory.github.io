@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "NCSLaboratory"
-excerpt: "Researching safe, trustworthy, and dependable AI systems."
+title: "Nonlinear Complex System Laboratory"
+excerpt: "Understanding complexity through mathematics and AI."
 classes: wide
 author_profile: false
 header:
@@ -9,26 +9,28 @@ header:
   overlay_filter: "0.35"
 ---
 
-## Building reliable intelligence for a safer future
+## From neural dynamics to chaos and strategic interactions
 
-NCSLaboratory brings together researchers, engineers, and students working at the intersection of artificial intelligence, machine learning, and safety-critical system design.
+The Nonlinear Complex System Laboratory at UNIST explores complex systems through mathematics, computation, and machine learning.
 
-Our goal is to create AI systems that are not only capable, but also **robust, transparent, interpretable, and accountable** in real-world environments.
+From chaotic motion to collective behavior, nonlinear systems produce rich and sometimes unpredictable dynamics. We develop mathematical and computational tools to model, analyze, predict, and control these phenomena across science and engineering.
 
 <div class="notice--info">
-  <h4 class="no_toc">Current focus</h4>
-  <p>AI safety, trustworthy machine learning, uncertainty-aware systems, and human-centered decision support.</p>
+  <h4 class="no_toc">Research interests</h4>
+  <p>Nonlinear collective dynamics, mathematical modeling of social phenomena, neuromorphic computing, scientific computing, and numerical analysis.</p>
 </div>
 
 ## Research directions
 
 | Area | Focus |
 | --- | --- |
-| **AI Safety** | Reducing failure modes and improving robustness under uncertainty |
-| **Trustworthy ML** | Calibration, interpretability, and reliable model evaluation |
-| **Decision Intelligence** | Translating complex data into dependable decisions |
-| **Human-Centered AI** | Designing systems that preserve transparency and human agency |
+| **Neuromorphic Computing** | Brain-inspired computation, with a focus on reservoir computing and temporal patterns |
+| **Chaos Theory** | Deterministic systems, sensitive dependence on initial conditions, and unpredictability |
+| **Game Theory** | Mathematical models of competition, cooperation, equilibrium, and strategic interaction |
+| **Complex Systems** | Nonlinear dynamics, collective behavior, modeling, prediction, and control |
 
 ## Explore the lab
 
 Learn more about our [research](/research/), [members](/members/), [projects](/projects/), and [publications](/publications/).
+
+The laboratory is led by [Prof. Pilwon Kim](https://sites.google.com/view/pilwonkim/) in the Department of Mathematical Sciences at UNIST.

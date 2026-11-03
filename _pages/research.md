@@ -4,20 +4,25 @@ permalink: /research/
 classes: wide
 ---
 
-Our research explores methods for building AI systems that are safe, robust, and useful outside the laboratory.
+Our research examines nonlinear and complex systems through mathematics, computation, and AI.
 
-## AI safety
+## Nonlinear collective dynamics
 
-We investigate failure modes, robustness, uncertainty, and evaluation strategies for systems operating in dynamic or high-stakes environments.
+We investigate how local interactions produce collective behavior, emergent patterns, and transitions in nonlinear systems.
 
-## Trustworthy machine learning
+## Mathematical modeling of social phenomena
 
-We develop learning methods that support calibration, interpretability, reproducibility, and reliable performance under distribution shift.
+We use mathematical models to study strategic interaction, cooperation, competition, and collective behavior in social systems.
 
-## Decision intelligence
+## Neuromorphic computing
 
-We study how models can turn complex data into decisions while communicating uncertainty and supporting human oversight.
+Inspired by biological neural systems, we explore efficient information processing with a focus on reservoir computing and the temporal dynamics of recurrent networks.
 
-## Human-centered AI
+## Scientific computing and numerical analysis
 
-We design systems that improve collaboration between people and AI while preserving accountability, transparency, and agency.
+We develop computational methods for simulating, analyzing, and predicting complex phenomena when analytical solutions are unavailable.
+
+## Themes from the laboratory poster
+
+- **Chaos theory:** order within unpredictability, sensitive dependence on initial conditions, and limits of long-term prediction
+- **Game theory:** the mathematics of strategic interaction, equilibrium, competition, and cooperation
