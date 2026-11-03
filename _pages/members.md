@@ -9,6 +9,7 @@ The lab members are listed below. Profile buttons are shown only when a verified
 <div class="member-directory">
   {% for member in site.data.members %}
     <article class="member-profile">
+      {% if member.photo %}<img class="member-photo" src="{{ member.photo | relative_url }}" alt="{{ member.name }}" />{% endif %}
       <p class="member-group">{{ member.group }}</p>
       <h2>{{ member.name }}</h2>
       {% if member.affiliation %}<p>{{ member.affiliation }}</p>{% endif %}
