@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="NCSLaboratory research homepage." />
+    <title>NCSLaboratory | Safe AI Research</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container nav-wrap">
+        <a class="brand" href="#home" aria-label="NCSLaboratory home">
+          <span class="brand-mark">NCS</span><span>Laboratory</span>
+        </a>
+        <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
+        <nav id="site-nav" class="site-nav" aria-label="Main navigation">
+          <a href="#about">About</a><a href="#research">Research</a><a href="#members">Members</a><a href="#projects">Projects</a><a href="#contact">Contact</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="home">
+      <section class="hero">
+        <div class="container hero-grid">
+          <div>
+            <p class="eyebrow">Safe, trustworthy, real-world AI</p>
+            <h1>Building reliable intelligence for a safer future.</h1>
+            <p class="lead">NCSLaboratory studies how intelligent systems can remain robust, interpretable, and deployable in dynamic real-world environments.</p>
+            <div class="actions">
+              <a class="button primary" href="#research">Explore research</a>
+              <a class="button secondary" href="#contact">Join the lab</a>
+            </div>
+            <div class="metrics">
+              <div><strong>5+</strong><span>Research themes</span></div>
+              <div><strong>10+</strong><span>Collaborators</span></div>
+              <div><strong>20+</strong><span>Projects and papers</span></div>
+            </div>
+          </div>
+          <div class="focus-card">
+            <p class="card-label">Current focus</p>
+            <h2>AI safety and trustworthy systems</h2>
+            <ul>
+              <li>Robust, uncertainty-aware learning</li>
+              <li>Human-centered decision support</li>
+              <li>Reliable ML for critical applications</li>
+            </ul>
+            <div class="bars" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></div>
+          </div>
+        </div>
+      </section>
+
+      <section id="about" class="section">
+        <div class="container split">
+          <div><p class="section-tag">About</p><h2>Researching the foundations of dependable AI.</h2></div>
+          <p> NCSLaboratory brings together researchers, engineers, and students working at the intersection of artificial intelligence, machine learning, and safety-critical system design. Our mission is to create AI systems that are powerful, robust, transparent, and accountable in real deployment settings.</p>
+        </div>
+      </section>
+
+      <section id="research" class="section alt">
+        <div class="container">
+          <p class="section-tag">Research</p><h2>Key areas of investigation</h2>
+          <div class="cards">
+            <article><span class="icon">01</span><h3>AI Safety</h3><p>Methods for reducing failure modes, improving robustness, and enabling safer machine behavior under uncertainty.</p></article>
+            <article><span class="icon">02</span><h3>Trustworthy ML</h3><p>Robust training, calibration, and interpretability for models that communicate uncertainty and maintain reliability.</p></article>
+            <article><span class="icon">03</span><h3>Decision Intelligence</h3><p>Adaptive systems that translate data into trustworthy decisions using principled statistical and learning techniques.</p></article>
+            <article><span class="icon">04</span><h3>Human-Centered AI</h3><p>AI systems that improve collaboration while preserving accountability, transparency, and human agency.</p></article>
+          </div>
+        </div>
+      </section>
+
+      <section id="members" class="section">
+        <div class="container">
+          <p class="section-tag">Members</p><h2>People driving the lab</h2>
+          <div class="cards members">
+            <article><div class="avatar">PI</div><h3>Principal Investigator</h3><p class="role">Research Director</p><p>Leads the lab vision across AI safety, trustworthy systems, and intelligent decision-making.</p></article>
+            <article><div class="avatar">R1</div><h3>Research Fellows</h3><p class="role">AI and Systems</p><p>Develop new methods in robust learning, evaluation, and uncertainty-aware modeling.</p></article>
+            <article><div class="avatar">R2</div><h3>Graduate Students</h3><p class="role">Applied ML</p><p>Design experiments, analyze systems, and translate research into practical methods.</p></article>
+            <article><div class="avatar">R3</div><h3>Collaborators</h3><p class="role">Cross-disciplinary</p><p>Partner across engineering, ethics, statistics, and computational sciences.</p></article>
+          </div>
+        </div>
+      </section>
+
+      <section id="projects" class="section alt">
+        <div class="container">
+          <p class="section-tag">Projects</p><h2>Selected work and impact</h2>
+          <div class="projects">
+            <article><div><small>2024</small><h3>Robust AI for Safety-Critical Systems</h3></div><p>Improving resilience, uncertainty calibration, and decision reliability in high-stakes environments.</p></article>
+            <article><div><small>2024</small><h3>Human-Aligned Decision Support</h3></div><p>Creating interpretable decision frameworks that support better collaboration between people and AI.</p></article>
+            <article><div><small>2023</small><h3>Trustworthy ML Benchmarks</h3></div><p>Building evaluation criteria for safety, calibration, and robustness in real-world deployment settings.</p></article>
+          </div>
+        </div>
+      </section>
+
+      <section id="contact" class="section">
+        <div class="container contact-grid">
+          <div><p class="section-tag">Contact</p><h2>Connect with the lab</h2><p>We welcome collaboration with researchers, students, and industry partners interested in trustworthy AI.</p><p class="contact-lines"><strong>Email</strong> <a href="mailto:hello@ncslaboratory.org">hello@ncslaboratory.org</a><br /><strong>Website</strong> <a href="https://ncslaboratory.github.io/">ncslaboratory.github.io</a></p></div>
+          <form id="contact-form" class="contact-form">
+            <label>Name<input name="name" required placeholder="Your name" /></label>
+            <label>Email<input name="email" type="email" required placeholder="you@example.com" /></label>
+            <label>Message<textarea name="message" rows="5" required placeholder="Tell us about your interests"></textarea></label>
+            <button class="button primary" type="submit">Send inquiry</button>
+            <p id="form-status" class="form-status" aria-live="polite"></p>
+          </form>
+        </div>
+      </section>
+    </main>
+
+    <footer><div class="container footer-inner"><span>NCSLaboratory</span><span>Safe AI Research Group</span><span>&copy; <span id="year"></span></span></div></footer>
+    <script src="script.js"></script>
+  </body>
+</html>
