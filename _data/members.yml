@@ -12,8 +12,9 @@
 - name: "Homin Son"
   group: "Graduate Student"
   email: "handhm0217@unist.ac.kr"
+  photo: "/assets/images/members/homin-son.jpeg"
 
-- name: "Sungkyu Jang"
+- name: "Seonggyu Jang"
   group: "Graduate Student"
   email: "florescence@unist.ac.kr"
 

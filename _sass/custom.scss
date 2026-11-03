@@ -17,6 +17,17 @@
   font-size: 1.25rem;
 }
 
+.member-photo {
+  display: block;
+  width: 120px;
+  height: 154px;
+  margin-bottom: 1rem;
+  border-radius: .6rem;
+  object-fit: cover;
+  object-position: center top;
+  background: #fff;
+}
+
 .member-profile p {
   margin: 0;
 }
