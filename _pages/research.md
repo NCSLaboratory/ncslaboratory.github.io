@@ -6,6 +6,12 @@ classes: wide
 
 Our research examines nonlinear and complex systems through mathematics, computation, and AI.
 
+## Reservoir computing: our core method
+
+Reservoir Computing is a central methodology in the laboratory. We exploit the rich transient dynamics and memory of recurrent systems as a computational reservoir, training only a lightweight readout layer to learn temporal patterns and complex signals.
+
+This approach connects the laboratory's interests in nonlinear dynamics, neuromorphic computation, and scientific machine learning. Our work includes chaotic reservoirs, unsupervised denoising, image processing, critical-transition prediction, and other data-driven analyses of complex systems.
+
 ## Nonlinear collective dynamics
 
 We investigate how local interactions produce collective behavior, emergent patterns, and transitions in nonlinear systems.

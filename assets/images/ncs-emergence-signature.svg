@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
   <title id="title">NCSLaboratory emergence field</title>
-  <desc id="desc">Abstract visualization of nonlinear trajectories becoming a connected computational network.</desc>
+  <desc id="desc">Abstract visualization of nonlinear trajectories becoming a connected reservoir computing network.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#061325"/>
@@ -49,6 +49,11 @@
     <path d="M1070 560 L1260 490 L1290 615"/>
   </g>
 
+  <g fill="none" stroke="#d7f7ff" opacity=".5">
+    <circle cx="1260" cy="490" r="52" stroke-width="2"/>
+    <circle cx="1260" cy="490" r="78" stroke-width="1" stroke-dasharray="4 10"/>
+  </g>
+
   <g filter="url(#softGlow)" fill="#d7f7ff">
     <circle cx="980" cy="255" r="6"/><circle cx="1190" cy="380" r="8"/><circle cx="1370" cy="270" r="5"/>
     <circle cx="1510" cy="470" r="7"/><circle cx="1290" cy="615" r="6"/><circle cx="1070" cy="560" r="5"/>
@@ -58,7 +63,7 @@
   <g opacity=".7" fill="#e9f8ff" font-family="Inter, Arial, sans-serif" letter-spacing="3">
     <text x="92" y="790" font-size="15">NONLINEAR DYNAMICS</text>
     <text x="640" y="132" font-size="15">EMERGENCE</text>
-    <text x="1260" y="770" font-size="15">COMPUTATION</text>
+    <text x="1190" y="770" font-size="15">RESERVOIR COMPUTING</text>
   </g>
   <g fill="#fff" font-family="Inter, Arial, sans-serif">
     <text x="92" y="846" font-size="34" font-weight="700" letter-spacing="8">NCS</text>
