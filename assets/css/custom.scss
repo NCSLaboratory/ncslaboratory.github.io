@@ -49,3 +49,47 @@
     grid-template-columns: 1fr;
   }
 }
+
+.publication-list {
+  display: grid;
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.publication-item {
+  padding: 1.2rem 1.25rem;
+  border: 1px solid $border-color;
+  border-radius: .75rem;
+  background: mix(#fff, $background-color, 70%);
+}
+
+.publication-item h2 {
+  margin: .25rem 0 .4rem;
+  font-size: 1.15rem;
+}
+
+.publication-meta,
+.publication-authors {
+  margin: 0;
+  color: $muted-text-color;
+  font-size: .88rem;
+}
+
+.publication-authors {
+  font-style: italic;
+}
+
+.publication-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem;
+  margin-top: .8rem;
+}
+
+.publication-links a {
+  padding: .3rem .65rem;
+  border: 1px solid $border-color;
+  border-radius: 999px;
+  font-size: .78rem;
+  font-weight: 700;
+}
