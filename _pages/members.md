@@ -4,26 +4,20 @@ permalink: /members/
 classes: wide
 ---
 
-## Principal investigator
+The lab members are listed below. Profile buttons are shown only when a verified public URL is available.
 
-**Prof. Pilwon Kim**
-Department of Mathematical Sciences, UNIST
-
-## Research fellows
-
-The laboratory welcomes researchers working on nonlinear dynamics, complex systems, mathematical modeling, and computational methods.
-
-## Graduate students
-
-The poster identifies the following graduate students:
-
-- Soobin Choi — [looacker09@unist.ac.kr](mailto:looacker09@unist.ac.kr)
-- Homin Son — [handhm0217@unist.ac.kr](mailto:handhm0217@unist.ac.kr)
-- Sungkyu Jang — [florescence@unist.ac.kr](mailto:florescence@unist.ac.kr)
-- Jaejin Lee — [ok63933@unist.ac.kr](mailto:ok63933@unist.ac.kr)
-
-## Undergraduate students
-
-- Taehyoung Kim — [taehyung0818@unist.ac.kr](mailto:taehyung0818@unist.ac.kr)
-- Hyeonmin Hwang — [hwang7737@unist.ac.kr](mailto:hwang7737@unist.ac.kr)
-- Hongjun Kang — [rhdfyd213@units.ac.kr](mailto:rhdfyd213@units.ac.kr)
+<div class="member-directory">
+  {% for member in site.data.members %}
+    <article class="member-profile">
+      <p class="member-group">{{ member.group }}</p>
+      <h2>{{ member.name }}</h2>
+      {% if member.affiliation %}<p>{{ member.affiliation }}</p>{% endif %}
+      <div class="member-links">
+        {% if member.email %}<a href="mailto:{{ member.email }}">Email</a>{% endif %}
+        {% if member.homepage %}<a href="{{ member.homepage }}">Homepage</a>{% endif %}
+        {% if member.github %}<a href="{{ member.github }}">GitHub</a>{% endif %}
+        {% if member.research_profile %}<a href="{{ member.research_profile }}">Research profile</a>{% endif %}
+      </div>
+    </article>
+  {% endfor %}
+</div>
