@@ -4,11 +4,11 @@ permalink: /research/
 classes: wide
 ---
 
-Our research examines nonlinear and complex systems through mathematics, computation, and AI. We use **Reservoir Computing** as a core method for turning rich dynamics into useful representations of temporal and high-dimensional data.
+Our research examines nonlinear and complex systems through mathematics, computation, and AI. We use **Reservoir Computing** to turn rich dynamics into useful representations of temporal and high-dimensional data.
 
-## Reservoir computing: our core method
+## Reservoir computing
 
-Reservoir Computing uses the transient dynamics and memory of a recurrent system as a computational substrate. By training a lightweight readout rather than the entire recurrent network, the method provides an efficient bridge between nonlinear dynamics and machine learning.
+Reservoir Computing uses the transient dynamics and memory of a recurrent system as a computational substrate. By training a lightweight readout rather than the entire recurrent network, it provides an efficient bridge between nonlinear dynamics and machine learning.
 
 <div class="research-feature research-feature--core">
   <div class="research-media-frame">
@@ -102,8 +102,3 @@ Inspired by biological neural systems, we investigate how nonlinear dynamics can
 We develop numerical tools for simulating, analyzing, and predicting complex phenomena when analytical solutions are unavailable. This includes discretization, time integration, spectral computation, and data-driven analysis of nonlinear equations.
 
 The research media above shows the kinds of spatiotemporal fields and dynamical systems that motivate this computational work.
-
-## Themes from the laboratory poster
-
-- **Chaos theory:** order within unpredictability, sensitive dependence on initial conditions, and limits of long-term prediction
-- **Game theory:** the mathematics of strategic interaction, equilibrium, competition, and cooperation

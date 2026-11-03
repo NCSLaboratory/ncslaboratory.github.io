@@ -5,12 +5,11 @@ excerpt: "Understanding complexity through nonlinear dynamics and reservoir comp
 classes: wide
 author_profile: false
 header:
-  overlay_image: /assets/images/ncs-emergence-signature.svg
-  overlay_color: "#1f4e79"
-  overlay_filter: "0.12"
+  overlay_color: "#102a43"
+  overlay_filter: "0.08"
 ---
 
-## From neural dynamics to chaos — with reservoir computing at the core
+## From neural dynamics to chaos
 
 The Nonlinear Complex System Laboratory at UNIST explores complex systems through mathematics, computation, and machine learning.
 
@@ -19,11 +18,6 @@ From chaotic motion to collective behavior, nonlinear systems produce rich and s
 <div class="notice--info">
   <h4 class="no_toc">Research interests</h4>
   <p>Nonlinear collective dynamics, mathematical modeling of social phenomena, neuromorphic computing, scientific computing, and numerical analysis.</p>
-</div>
-
-<div class="notice--success">
-  <h4 class="no_toc">Core method: Reservoir Computing</h4>
-  <p>We use the rich dynamics of recurrent networks as computational reservoirs for learning temporal patterns, analyzing complex signals, and building efficient machine-learning systems with minimal training.</p>
 </div>
 
 ## Research directions
