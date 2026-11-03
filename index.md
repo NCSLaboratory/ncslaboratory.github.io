@@ -5,8 +5,9 @@ excerpt: "Understanding complexity through mathematics and AI."
 classes: wide
 author_profile: false
 header:
+  overlay_image: /assets/images/ncs-emergence-signature.svg
   overlay_color: "#1f4e79"
-  overlay_filter: "0.35"
+  overlay_filter: "0.12"
 ---
 
 ## From neural dynamics to chaos and strategic interactions
