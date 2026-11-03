@@ -4,14 +4,14 @@ permalink: /projects/
 classes: wide
 ---
 
-## Robust AI for safety-critical systems
+The laboratory's project details will be updated as individual research projects are published.
 
-Developing methods that improve resilience, uncertainty calibration, and decision reliability in high-stakes environments.
+## Current directions
 
-## Human-aligned decision support
+- Reservoir computing for temporal patterns
+- Mathematical models of nonlinear collective dynamics
+- Computational analysis of chaotic systems
+- Mathematical modeling of social phenomena
+- Scientific computing and numerical analysis
 
-Creating interpretable decision frameworks that support better collaboration between people and AI tools.
-
-## Trustworthy ML benchmarks
-
-Establishing evaluation criteria and reproducible pipelines for safety, calibration, and robustness.
+For current project information, visit the [laboratory homepage](https://sites.google.com/view/pilwonkim/) or contact Prof. Kim.
