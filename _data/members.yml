@@ -9,6 +9,7 @@
   group: "Graduate Student"
   email: "looacker09@unist.ac.kr"
   photo: "/assets/images/members/soobin-choi.jpg"
+  homepage: "https://jer159y.github.io"
 
 - name: "Homin Son"
   group: "Graduate Student"
@@ -22,6 +23,7 @@
 - name: "Jaejin Lee"
   group: "Graduate Student"
   email: "ok63933@unist.ac.kr"
+  photo: "/assets/images/members/jaejin-lee.jpeg"
 
 - name: "Taehyoung Kim"
   group: "Undergraduate Student"
