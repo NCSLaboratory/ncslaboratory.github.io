@@ -28,10 +28,12 @@
 - name: "Taehyoung Kim"
   group: "Undergraduate Student"
   email: "taehyung0818@unist.ac.kr"
+  photo: "/assets/images/members/taehyoung-kim.jpeg"
 
 - name: "Hyeonmin Hwang"
   group: "Undergraduate Student"
   email: "hwang7737@unist.ac.kr"
+  photo: "/assets/images/members/hyeonmin-hwang.jpeg"
 
 - name: "Hongjun Kang"
   group: "Undergraduate Student"
